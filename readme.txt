@@ -16,7 +16,7 @@ Aplikasi ini adalah sistem manajemen paket wisata yang dibangun menggunakan PHP 
 ### 1. Kloning atau Unduh Aplikasi
 - **Kloning repository ini menggunakan Git:**
   ```bash
-  git clone https://github.com/Yansa27/PaketWisata.git
+  git clone https://github.com/hariwibdj/tugas-4-hariyanto-wibowo.git
   ```
 - **Atau unduh ZIP dari repository dan ekstrak di direktori web server Anda.**
 
@@ -67,4 +67,4 @@ Open Source By @ HARIWIB.COM
 
 
 link download lewat repositori github :
-https://github.com/hariwibdj/tot-web-dasar
+https://github.com/hariwibdj/tugas-4-hariyanto-wibowo
