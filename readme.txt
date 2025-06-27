@@ -42,7 +42,7 @@ if (!$sambungan) //jika tidak berhasil disambungkan
 
 ### 3. Jalankan Aplikasi
 - Akses aplikasi melalui browser dengan URL yang sesuai, misalnya:
-  http://localhost/paketwisata/
+  http://localhost/tugas-4-hariyanto-wibowo/
 
 ## Struktur Direktori dan File
 
